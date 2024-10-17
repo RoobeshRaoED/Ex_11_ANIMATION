@@ -317,6 +317,6 @@ Zoom.XML
 <img src="6.png" width="400">
 
 ### Directory
-<img src="7.png" width="400">
+<img src="7.png">
 
 ## RESULT:
