@@ -11,7 +11,12 @@ Android Studio(Latest Version)
 
 ## ALGORITHM:
 
-
+Step 1 : Set up Android Studio with necessary dependencies for creating animations.
+Step 2 : Create a layout with an ImageView and several Button elements for different animations.
+Step 3 : Write the XML files for various animations (e.g., blink, slide, zoom, fade).
+Step 4 : Implement animation methods (e.g., clockwise(), zoom(), blink(), fade(), slide()) in the MainActivity.java to trigger the animations.
+Step 5 : Link the animation XML files to the corresponding methods in MainActivity.java.
+Step 6 : Build and run the application to animate the image based on button clicks.
 
 ## PROGRAM:
 ### MainActivity.java:
@@ -320,3 +325,4 @@ Zoom.XML
 <img src="7.png">
 
 ## RESULT:
+The Android application was successfully developed to add animations (move, blink, fade, clockwise, zoom, and slide) to an ImageView using Android Studio.
